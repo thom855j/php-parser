@@ -1,2 +1,2 @@
-# php-macro-parser
-A simple marcro parser for php
+# php-parser
+Simple php parsers
