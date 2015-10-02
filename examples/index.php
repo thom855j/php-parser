@@ -1,5 +1,5 @@
 <?php
-require_once "../src/MacroParser.php";
+require_once "../src/Macro.php";
 $input = file_get_contents("input.html");
 
 use WebSuppoerDK\PHPParser\Macro:
