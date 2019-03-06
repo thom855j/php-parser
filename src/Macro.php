@@ -1,8 +1,9 @@
 <?php
 
-namespace WebSupportDK\PHPParser;
+namespace Datalaere\PHPParser;
 
 class Macro {
+	
 	/**
 	 * Replace the macros in an input string
 	 * @param string $input
